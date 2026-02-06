@@ -1,4 +1,4 @@
-# Claude + Databricks: Intelligent Transaction Risk Analysis
+# Databricks + Claude: Intelligent Transaction Risk Analysis
 
 Created by Bala Amavasai <bala.amavasai@gmail.com> and Claude Cowork
 
@@ -30,9 +30,9 @@ Claude + Databricks delivers intelligent transaction analysis that:
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                          Databricks Lakehouse                                │
+│                          Databricks Lakehouse                               │
 ├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
+│                                                                             │
 │  ┌──────────────┐    ┌──────────────┐    ┌──────────────┐    ┌────────────┐ │
 │  │   Bronze     │───▶│   Silver     │───▶│    Gold      │───▶│  Reports   │ │
 │  │  Raw Trans.  │    │  Enriched    │    │ Risk Scored  │    │ Dashboards │ │
@@ -50,7 +50,7 @@ Claude + Databricks delivers intelligent transaction analysis that:
 │                    │ • Pattern Det.  │                                      │
 │                    │ • Explanations  │                                      │
 │                    └─────────────────┘                                      │
-│                                                                              │
+│                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
